@@ -9,7 +9,7 @@ export default class App1 extends Component {
     return(
       <View>
         <Text>
-          Testando essa View
+          Testando essa View 2
         </Text>
       </View>
     );
